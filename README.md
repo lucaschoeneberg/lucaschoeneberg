@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaschoeneberg
 - 👀 I’m interested in Full-stack Development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Android Studio with Java
 
 <!---
 lucaschoeneberg/lucaschoeneberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
